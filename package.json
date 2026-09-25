@@ -1,0 +1,12 @@
+{
+  "name": "webrtc-signaling-server",
+  "version": "1.0.0",
+  "description": "High-performance WebSocket Signaling Server for Remote Control App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
